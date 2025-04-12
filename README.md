@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link-here.com" alt="profile picture" width="150" style="border-radius: 50%;">
+  <img src="https://drive.usercontent.google.com/download?id=1R8w_sFFT4OGm2iiJ8BjHwLE6H2NHsNec" alt="profile picture" width="150" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hey, I’m Aran 👋</h1>
