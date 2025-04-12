@@ -67,30 +67,30 @@ News reader built with async/await and Swift Concurrency. Fast, efficient, and b
 
 <p align="center">
   <a href="https://www.udemy.com/certificate/UC-6971e864-31fc-4cb9-9f5f-bef49b786f81/">
-    <img src="https://img.shields.io/badge/Udemy-Async/Await_&_Actors-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Udemy-Async/Await_&_Actors-310053?style=for-the-badge&logo=Udemy&logoColor=white" "/>
   </a>
   <a href="https://www.udemy.com/certificate/UC-80ee64b9-354f-45ca-ab42-7935f4b4bdb9/">
-    <img src="https://img.shields.io/badge/Udemy-iOS_&_Swift_Bootcamp-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Udemy-iOS_&_Swift_Bootcamp-310053?style=for-the-badge&logo=Udemy&logoColor=white"/>
   </a>
   <br/><br/>
   <a href="https://www.coursera.org/account/accomplishments/verify/3XG6Y64XK4CX">
-    <img src="https://img.shields.io/badge/Meta-Advanced_Swift-0866FF?style=for-the-badge&logo=Meta&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Meta-Advanced_Swift-00235b?style=for-the-badge&logo=Meta&logoColor=white"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/verify/ME83S2YW3SE7">
-    <img src="https://img.shields.io/badge/Meta-SwiftUI_UI_Building-0866FF?style=for-the-badge&logo=Meta&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Meta-SwiftUI_UI_Building-00235b?style=for-the-badge&logo=Meta&logoColor=white"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/verify/XSZ2B4M4C86H">
-    <img src="https://img.shields.io/badge/Meta-UX/UI_Design-0866FF?style=for-the-badge&logo=Meta&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Meta-UX/UI_Design-00235b?style=for-the-badge&logo=Meta&logoColor=white"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/verify/Q5CJ5W3NCC5H">
-    <img src="https://img.shields.io/badge/Meta-Version_Control-0866FF?style=for-the-badge&logo=Meta&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Meta-Version_Control-00235b?style=for-the-badge&logo=Meta&logoColor=white"/>
   </a>
   <br/><br/>
   <a href="https://certificates.cs50.io/2c87a95b-2421-459d-929e-67a2043ff6bd.pdf?size=letter">
-    <img src="https://img.shields.io/badge/Harvard-CS50X_Intro_to_CS-8A0707?style=for-the-badge&logo=Harvard%20University&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Harvard-CS50X_Intro_to_CS-410000?style=for-the-badge&logo=Harvard%20University&logoColor=white"/>
   </a>
   <a href="https://certificates.cs50.io/cbe6f95d-5500-4766-8d6b-955a7ae7c77a.pdf?size=letter">
-    <img src="https://img.shields.io/badge/Harvard-CS50T_Teaching_CS-8A0707?style=for-the-badge&logo=Harvard%20University&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Harvard-CS50T_Teaching_CS-410000?style=for-the-badge&logo=Harvard%20University&logoColor=white"/>
   </a>
 </p>
 
