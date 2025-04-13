@@ -41,28 +41,6 @@ I’m open to freelance gigs, remote collaborations, and exciting side-projects.
 
 ---
 
-### 📦 Featured Projects
-
-#### 📱 SwiftUI Multi-Feature App  
-A modular app showing how to combine SwiftUI + UIKit features in real-world use: APIs, MapKit, grids, video & more.  
-🔗 [GitHub Repo](https://github.com/AranFononi/Africa-SwiftUI-MasterClass)
-
----
-
-#### 📝 TodayToDo – Task Manager with SwiftData  
-Minimal & clean task manager using SwiftUI + SwiftData. Personalized UX, dark/light modes, and future-ready.  
-🔗 [GitHub Repo](https://github.com/AranFononi/TodayToDo-App)
-
----
-
-#### 📰 Async News – Concurrency in Action  
-News reader built with async/await and Swift Concurrency. Fast, efficient, and beautifully responsive.  
-🔗 [GitHub Repo](https://github.com/AranFononi/NewsApp-SwiftUI-Concurrency)
-
-</div>
-
----
-
 <h3 align="center">📜 Certifications</h3>
 
 <p align="center">
